@@ -7,7 +7,7 @@ import java.util.Collection;
 import org.apache.commons.io.FileUtils;
 
 /**
- * @Author: fochess [fochess@163.com]
+ * @Author: fochess
  * @Date: 2017-12-20
  * @Version: V1.0
  * @Copyright: www.fochess.com
